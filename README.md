@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evareitzel
 - 👀 I’m interested in software engineering and front-end web development.
-- 🌱 I’m currently learning React and MERN through MIT's Full Stack Development bootcamp.
+- 🌱 I’m learning Software Engineering through Flatiron's Flex program.
 - 📫 How to reach me 
      LinkedIn: evareitzel
      evareitzel.com
