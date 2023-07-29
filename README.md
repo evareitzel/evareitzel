@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @evareitzel
-- 👀 I’m interested in software engineering and front-end web development.
-- 🌱 I’m learning Software Engineering through Flatiron's Flex program.
+- 👀 I’m a full stack developer.
+- 🌱 I graduated from Flatiron School's Software Engineering program.
 - 📫 How to reach me 
      LinkedIn: evareitzel
-     evareitzel.com
 
 <!---
 evareitzel/evareitzel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
