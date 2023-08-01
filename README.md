@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evareitzel
-- 👀 I’m a full stack developer.
+- 👀 I’m a Full Stack Software Engineer.
 - 🌱 I graduated from Flatiron School's Software Engineering program.
 - 📫 How to reach me 
      LinkedIn: evareitzel
