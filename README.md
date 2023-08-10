@@ -2,6 +2,7 @@ Software Engineer with experience using front-end and back-end technologies, inc
 
 
 Technical Skills
+
 JavaScript ES6, React, React Router, Redux Toolkit, Rails, Ruby on Rails, Postgres, SQL, HTML, CSS, Git
 
   
