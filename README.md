@@ -6,6 +6,7 @@ With a background in graphic design and digital communications, I bring strong U
 ## Technical Skills
 JavaScript ES6, React, React Router, Redux Toolkit, Ruby, Ruby on Rails, Postgres, SQL, HTML, CSS, Git
 
+✉ evareitzel@gmail.com
   
 
 <!---
